@@ -1,0 +1,61 @@
+{
+    "name": "LearnUpon",
+    "description": "Learning management system. Create and deliver online courses to your employees, clients, and partners with an easy to use LMS. LearnUpon LMS is the world's leading cloud-based Learning Management System.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1777-learnupon.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "lms"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/learnupon\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LearnUpon",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1777-learnupon.jpg",
+            "humanURL": "http:\/\/www.learnupon.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/learnupon-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.learnupon.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.learnupon.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/learnupon"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/learnupon"
+        },
+        {
+            "type": "Email",
+            "url": "legal@learnupon.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LearnUpon"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.learnupon.com"
+        }
+    ]
+}
